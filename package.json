@@ -1,0 +1,16 @@
+{
+  "name": "dice-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "solc": "^0.4.10",
+    "web3": "^0.18.4"
+  }
+}
